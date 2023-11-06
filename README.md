@@ -17,7 +17,7 @@ Kindly find below a list of the GitHub repositories for my Laravel projects.
 
 - [![Laravel](https://img.shields.io/badge/Learning--Management--System-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Learning-Management-System)
 
-- [![Laravel](https://img.shields.io/badge/Onetech--Ecommerce--Shop-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Onetech-Ecommerce-Shop)
+- [![Laravel](https://img.shields.io/badge/Onetech--Ecommerce--Store-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Onetech-Ecommerce-Store)
 
 - [![Laravel](https://img.shields.io/badge/Company--Dynamic--Website-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Company-Dynamic-Website)
 
