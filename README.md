@@ -5,11 +5,15 @@ Kindly find below a list of the GitHub repositories for my Laravel projects.
 
 ## 🔗 Project Links
 
+- [![Laravel](https://img.shields.io/badge/Barta-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Barta.git)
+
+- [![Laravel](https://img.shields.io/badge/Venue--Vista-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Venue-Vista.git)
+
 - [![Laravel](https://img.shields.io/badge/Portfolio--Website--Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Portfolio-Web-Laravel.git)
 
 - [![Laravel](https://img.shields.io/badge/ToHoney--Ecommerce--website-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/ToHoney-Ecommerce-Project)
 
-- [![Laravel](https://img.shields.io/badge/Ict3204--Ecommerce--web-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/ICT3204-Project-Ecommerce)
+- [![Laravel](https://img.shields.io/badge/Codexwise--Ecommerce--web-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Codexwise-Ecommerce)
 
 - [![Laravel](https://img.shields.io/badge/Laravel10--Blog--website-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Laravel10-Blog)
 
