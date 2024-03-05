@@ -5,11 +5,13 @@ Kindly find below a list of the GitHub repositories for my Laravel projects.
 
 ## 🔗 Project Links
 
-- [![Laravel](https://img.shields.io/badge/Barta-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Barta.git)
+- [![Laravel](https://img.shields.io/badge/Barta--Social--Networking-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Barta)
 
-- [![Laravel](https://img.shields.io/badge/Venue--Vista-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Venue-Vista.git)
+- [![Laravel](https://img.shields.io/badge/VenueVista--Booking--Website-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Venue-Vista)
 
-- [![Laravel](https://img.shields.io/badge/Portfolio--Website--Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Portfolio-Web-Laravel.git)
+- [![Laravel](https://img.shields.io/badge/Portfolio--Website--Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Portfolio-Web-Laravel)
+
+- [![Laravel](https://img.shields.io/badge/ChakriBakri--JobListing--WebApp-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/ChakriBakri-blade)
 
 - [![Laravel](https://img.shields.io/badge/ToHoney--Ecommerce--website-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/ToHoney-Ecommerce-Project)
 
