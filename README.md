@@ -13,6 +13,8 @@ Kindly find below a list of the GitHub repositories for my Laravel projects.
 
 - [![Laravel](https://img.shields.io/badge/ChakriBakri--JobListing--WebApp-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/ChakriBakri-blade)
 
+- [![Laravel](https://img.shields.io/badge/ChakriBakri--JobListing--SPA-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/ChakriBakri-inertia)
+  
 - [![Laravel](https://img.shields.io/badge/ToHoney--Ecommerce--website-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/ToHoney-Ecommerce-Project)
 
 - [![Laravel](https://img.shields.io/badge/Codexwise--Ecommerce--web-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/mokammeltanvir/Codexwise-Ecommerce)
